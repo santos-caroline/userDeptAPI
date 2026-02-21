@@ -28,3 +28,6 @@ Para rodar a API localmente, siga os passos abaixo:
    
 
 #### Para detalhes sobre as rotas e o banco de dados, consulte o <a href="https://github.com/devsuperior/java-web-spring-2022/tree/main" target="_blank"> repositório original </a> .
+
+## Leitura extra: 
+Tuturial explicativo de como contruir uma API REST, <a href="https://www.javaguides.net/2022/12/spring-boot-3-crud-restful-webservices.html)" target="_blank"> vale a leitura! </a>
